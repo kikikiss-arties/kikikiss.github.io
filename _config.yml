@@ -8,8 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "About me"TitleA
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "kikikiss"
 description              : &description "An nomall person who loves draw🤭"
