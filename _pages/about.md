@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-v
+
 Hi❣ Welcome! I am kiki，a freelance artist who focuses on anime and semi thick painting styles. …^v^… passionate about creating visual images that are full of personality and beauty✌( •̀ ω •́ ).
 I can do：
 Exquisite avatar drawing: Create an exclusive profile photo that can be remembered at a glance for your social media platform, game account, or virtual image😍. 
